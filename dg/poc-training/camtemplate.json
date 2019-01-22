@@ -1,0 +1,14 @@
+{
+   "name": "poc-training",
+   "description": "Description for poc-training.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "poc-training",
+     "bullets": []
+   }
+ }
